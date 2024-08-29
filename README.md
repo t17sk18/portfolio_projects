@@ -1,7 +1,7 @@
 # Portfolio Projects for Beginners and Learners
 
 ## 1. Hotel Revenue Exploratory Analysis
-   ### Note: This is just for learning, training and understanding purposes for those who have already basic knowledge of SQL and Power BI. You can explore and expand visualisation, report, more DAX functions and SQL       queries based on your analysis.
+   ### Note: This training material is designed for those who already have beginner knowledge of SQL, Excel, and Power BI. It will help you learn more about visualization, reporting, DAX functions, and SQL queries to enhance your analytical skills to add to your portfolio.
 
    ### Follow the documentaion in the folder Hotel_revenue/Documentation.docx
    In this tutorial, we will follow some steps to build the best portfolio
